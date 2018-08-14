@@ -1,4 +1,5 @@
 # devops-aula02
-# dwayne johnson
+# michael jordan
 # adam sandler
 # vin diesel
+# pregador luo
